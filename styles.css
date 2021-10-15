@@ -52,10 +52,6 @@
   font-family: "Nunito", sans-serif;
 }
 
-.buttons button:first-child {
-  background-color: rgb(58, 117, 228);
-}
-
 .buttons :hover {
   background-color: rgb(58, 117, 228);
 }
